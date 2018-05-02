@@ -1,5 +1,6 @@
 # scrapy_CrawlerRunner
 主要记录下动态加载模块和类，scrapy多爬虫运行，scrapy外部加载settings
+可参考https://blog.csdn.net/qq_33775402/article/details/63835978
 ## 注意点
   主要记录下动态加载模块和类，scrapy多爬虫运行，scrapy外部加载settings 基本都在run_spiders.py 
 ### 百度搜索
