@@ -14,7 +14,7 @@ setup(
     license='GPL',
     install_requires=['scrapy', 'xlwt', 'xlrd'],
     author='yqq',
-    author_email='yangqiqi@19lou.com',
+    author_email='yangqiqi@xxxx.com',
     platforms='any',
     url='git@git.dk.com:yangqiqi/Checkjiuyue.git',
     include_package_data=True,
